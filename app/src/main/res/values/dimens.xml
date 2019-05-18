@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appBarHeight">60dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="viewPagerHeight">400dp</dimen>
+    <dimen name="marginTop">0dp</dimen>
+    <dimen name="textViewHeight">200dp</dimen>
+    <dimen name="appBarHeightLand">50dp</dimen>
+    <dimen name="marginLand">15dp</dimen>
+    <dimen name="viewPagerHeighLand">200dp</dimen>
+    <dimen name="textViewHeightLand">100dp</dimen>
+</resources>
